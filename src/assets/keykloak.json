@@ -1,0 +1,10 @@
+{
+    "realm": "pxrmtest",
+    "auth-server-url": "https://login.sorintdev.it/auth",
+    "ssl-required": "external",
+    "resource": "weknow",
+    "credentials": {
+    	"secret": "4cd62ca1-b621-430a-a4e3-2612b5cae32c"
+    },
+    "confidential-port": 0
+}
